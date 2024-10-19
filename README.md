@@ -1,6 +1,6 @@
 #  my dwm fork by lukesmith
 
-
+![dwm](https://github.com/lutheran736/dwm/blob/master/dwm.png?raw=true)
 
 ## FAQ
 
