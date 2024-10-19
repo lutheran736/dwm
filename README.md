@@ -1,4 +1,4 @@
-#  my dwm fork by lukesmith
+# My dwm fork 
 
 ![dwm](https://github.com/lutheran736/dwm/blob/master/dwm.png?raw=true)
 
