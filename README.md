@@ -1,4 +1,6 @@
-# Luke's build of dwm
+#  my dwm fork by lukesmith
+
+
 
 ## FAQ
 
@@ -23,12 +25,15 @@ I haven't kept `man dwm`/`dwm.1` updated though. PRs welcome on that, lol.
 - [shiftview](https://dwm.suckless.org/patches/nextprev/): Cycle through tags (<kbd>super+g/;</kbd>).
 - [vanitygaps](https://dwm.suckless.org/patches/vanitygaps/): Gaps allowed across all layouts.
 - [swallow patch](https://dwm.suckless.org/patches/swallow/): if a program run from a terminal would make it inoperable, it temporarily takes its place to save space.
-
+- [attachaside](https://dwm.suckless.org/patches/attachaside): Make new clients get attached and focused in the stacking area instead of always becoming the new master.
+- [barpadding](https://dwm.suckless.org/patches/barpadding/): This patch adds variables for verticle and horizontal space between the statusbar and the edge of the screen.
+- [cyclelayouts](https://dwm.suckless.org/patches/cyclelayouts/): Cycles through all avaiable layouts using MOD-CTRL-, and MOD-CTRL-.
+- [movestack](https://dwm.suckless.org/patches/movestack): This plugin allows you to move clients around in the stack and swap them with the master. 
 
 ## Installation for newbs
 
 ```bash
-git clone https://github.com/LukeSmithxyz/dwm.git
+https://github.com/lutheran736/dwm.git
 cd dwm
 sudo make install
 ```
